@@ -19,9 +19,8 @@ Data Availability
   1     The original dataset is not publicly available. 
   2     Access can be requested by contacting Gang LI (lig@nwu.edu.cn).
 Usage
-	1	The origenally dataset should be apply to Gang LI (lig@nwu.edu.cn), you can read the data irodaction documents in Zenodo (DOI:)
-	2	Open xgboost_forest_loss_analysis.R and run the full script
-	3	Outputs are saved automatically to xgboost_output/
+	1	Open xgboost_forest_loss_analysis.R and run the full script
+	2	Outputs are saved automatically to xgboost_output/
 
 Repository Structure
 ├── xgboost_forest_loss_analysis.R   # Main analysis script
