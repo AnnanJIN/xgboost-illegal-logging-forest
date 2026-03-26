@@ -1,0 +1,24 @@
+{
+  "title": "Hidden carbon debt from illegal logging amplifies forest carbon losses in China",
+  "description": "Code and data for reproducing the XGBoost + SHAP analysis of illegal timber harvesting volume drivers across Chinese prefecture-level cities.",
+  "upload_type": "software",
+  "license": "MIT",
+ "creators": [
+    {
+      "name": "Li, Gang",
+      "affiliation": "Northwest University"
+    },
+    {
+      "name": "Jin, Annan",
+      "affiliation": "Northwest University"
+    }
+  ],
+  "keywords": [
+    "XGBoost",
+    "SHAP",
+    "illegal logging",
+    "forest carbon",
+    "China",
+    "city-level"
+  ]
+}
